@@ -1,5 +1,6 @@
 to
 now
 clear
+hai
 data
 entry
