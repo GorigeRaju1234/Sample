@@ -5,6 +5,9 @@
 k
 l
 m
+r
+s
+t
 a
 b
 c
